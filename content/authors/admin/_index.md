@@ -83,7 +83,7 @@ work:
   - position: Applied Scientist PhD Intern
     company_name: Uber
     company_url: ''
-    company_logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Uber_App_Icon.svg/2048px-Uber_App_Icon.svg.png'
+    company_logo: 'assets/media/icons/Uber_App_Icon.svg.png'
     date_start: 2021-01-01
     date_end: ''
     summary: |2-

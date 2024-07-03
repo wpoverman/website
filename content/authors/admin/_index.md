@@ -83,26 +83,23 @@ work:
   - position: Applied Scientist PhD Intern
     company_name: Uber
     company_url: ''
-    company_logo: 'assets/media/icons/Uber_App_Icon.svg.png'
-    date_start: 2021-01-01
-    date_end: ''
+    company_logo: ''
+    date_start: 2024-05-28
+    date_end: '2024-08-19'
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - did something
+      - something else
+      - something else
+  - position: Applied Scientist PhD Intern
+    company_name: Uber
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+    date_start: 2023-05-28
+    date_end: '2023-08-19'
+    summary: |2-
+      - did something
+      - something else
+      - something else
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -127,7 +124,7 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: assets/media/weight.svg
       - name: Cats
         description: ''
         percent: 100

@@ -65,7 +65,7 @@ education:
     institution: University of California, Irvine
     date_start: 2020-09-01
     date_end: 2022-04-01
-    summary: |
+    # summary: |
       #GPA: 3.8/4.0
 
       # Courses included:
@@ -78,11 +78,7 @@ education:
     date_end: 2020-06-01
     summary: |
       GPA: 4.1/4.3
-      
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin

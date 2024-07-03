@@ -124,7 +124,7 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: assets/media/weight.svg
+        icon: weight
       - name: Cats
         description: ''
         percent: 100

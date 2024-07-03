@@ -24,10 +24,11 @@ role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Graduate School of Business
-    url: ''
   - name: Stanford University
     url: ''
+  - name: Graduate School of Business
+    url: ''
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

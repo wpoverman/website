@@ -52,7 +52,7 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Operations, Information, and Technology
     institution: Stanford University
     date_start: 2022-09-01
     date_end: 2026-06-01
@@ -61,28 +61,28 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS Computer Science
+    institution: University of California, Irvine
+    date_start: 2020-09-01
+    date_end: 2022-04-01
     summary: |
-      GPA: 3.8/4.0
+      #GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      # Courses included:
+      # - Computer 
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Mathematics and Computer Science (double major)
+    institution: California Institute of Technology
+    date_start: 2016-09-01
+    date_end: 2020-06-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 4.1/4.3
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin

@@ -47,9 +47,9 @@ profiles:
 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Experimentation
+  - Healthcare
 
 education:
   - area: PhD Operations, Information, and Technology

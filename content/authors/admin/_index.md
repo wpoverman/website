@@ -45,12 +45,6 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en
 
-
-interests:
-  - Machine Learning
-  - Experimentation
-  - Healthcare
-
 education:
   - area: PhD Operations, Information, and Technology
     institution: Stanford University

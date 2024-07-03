@@ -45,6 +45,8 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en
 
+
+
 education:
   - area: PhD Operations, Information, and Technology
     institution: Stanford University
@@ -72,6 +74,11 @@ education:
     date_end: 2020-06-01
     summary: |
       GPA: 4.1/4.3
+
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 work:
   - position: Applied Scientist PhD Intern

@@ -176,8 +176,8 @@ work:
 
 ## About Me
 
-Hi, I'm a PhD student at Stanford Graduate School of Business in the Operations, Information, and Technology group. My research interests span machine learning, experimentation, and healthcare, with a focus on reinforcement learning (RL), alignment, network interference in experiments, and prediction models in healthcare operations and clinical settings. I have interned at Uber, where I applied my research in RL and experimentation to large-scale problems.
+Hi, I'm a PhD student at Stanford Graduate School of Business in the Operations, Information, and Technology group. My research interests span machine learning, experimentation, and healthcare, with a focus on alignment, uncertainy quantification, reinforcement learning (RL), network interference in experiments, and prediction models in healthcare operations and clinical settings. I have interned at Uber, where I applied my research in RL and experimentation to large-scale problems.
 
-I completed my undergraduate studies at Caltech, double majoring in mathematics and computer science, with a focus on combinatorics and complexity theory. After graduating in Spring 2020, I spent most of the COVID-19 pandemic in South Korea as a visiting researcher at the Institute for Basic Science in Daejeon. During this time, I also obtained a master's degree in computer science from UC Irvine, focusing on research in multi-agent reinforcement learning.
+I completed my undergraduate studies at Caltech, double majoring in mathematics and computer science, with a focus on combinatorics and complexity theory. After graduating in Spring 2020, I spent most of the COVID-19 pandemic in South Korea as a visiting researcher at the Institute for Basic Science. During this time, I also obtained a master's degree in computer science from UC Irvine, focusing on research in multi-agent reinforcement learning.
 
 

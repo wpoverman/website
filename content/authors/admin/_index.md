@@ -24,7 +24,9 @@ role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Graduate School of Business \n Stanford University
+  - name: Graduate School of Business
+    url: ''
+  - name: Stanford University
     url: ''
 
 # Social network links

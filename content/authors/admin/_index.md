@@ -76,9 +76,11 @@ education:
       GPA: 4.1/4.3
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reinforcement Learning 
+  - Alignment
+  - Experimentation
+  - Uncertainty Quantification
+  - Healthcare
 
 work:
   - position: Applied Scientist PhD Intern

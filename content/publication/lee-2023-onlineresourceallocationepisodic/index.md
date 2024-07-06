@@ -11,6 +11,4 @@ publication_types:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2305.10744
-- name: URL
-  url: https://arxiv.org/abs/2305.10744
 ---

@@ -6,7 +6,7 @@ authors:
 - Ioannis Panageas
 - Georgios Piliouras
 date: '2022-01-01'
-publishDate: '2024-07-06T05:18:16.574775Z'
+publishDate: '2022-01-01'
 publication_types:
 - paper-conference
 publication: '*International Conference on Learning Representations*'

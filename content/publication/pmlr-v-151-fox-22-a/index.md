@@ -6,8 +6,8 @@ authors:
 - Stephen M. Mcaleer
 - Will Overman
 - Ioannis Panageas
-date: 2022-None-01
-publishDate: '2024-07-06T05:18:16.584618Z'
+date: '2022-03-01'
+publishDate: '2022-03-01'
 publication_types:
 - paper-conference
 publication: '*Proceedings of The 25th International Conference on Artificial Intelligence

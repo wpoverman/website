@@ -15,7 +15,6 @@ to settings (such as generative AI) where humans can interpret model outputs and
 provide feedback. In traditional non-generative settings, where model outputs are
 numerical values or classes, detecting misalignment through single-sample outputs is
 highly challenging.
-
 In this paper we consider an alternative strategy. We propose interpreting model
 alignment through property testing, defining an aligned model f as one belonging to a
 subset P of functions that exhibit specific desired behaviors. We focus on post-processing
@@ -24,7 +23,6 @@ we develop a general procedure for converting queries for a given property P to 
 collection of loss functions suitable for use in a conformal risk control algorithm. We
 prove a probabilistic guarantee that the resulting conformal interval around f contains
 a function approximately satisfying P.
-
 Moreover, given the remarkable capabilities of modern AI models with large parameters and extensive training data, one might argue that alignment problems will naturally resolve, making alignment techniques unnecessary. However, we show that increasing the
 size of the training data or the number of parameters in a random feature model does
 not eliminate the need for alignment techniques when the pre-training data contains

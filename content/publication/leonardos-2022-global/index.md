@@ -5,8 +5,8 @@ authors:
 - Will Overman
 - Ioannis Panageas
 - Georgios Piliouras
-date: '2022-01-01'
-publishDate: '2022-01-01'
+date: '2022-04-25'
+publishDate: '2022-04-25'
 publication_types:
 - paper-conference
 publication: '*International Conference on Learning Representations*'

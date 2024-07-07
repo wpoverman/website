@@ -21,12 +21,7 @@ a pre-trained model f to better align with P using conformal risk control. Speci
 we develop a general procedure for converting queries for a given property P to a
 collection of loss functions suitable for use in a conformal risk control algorithm. We
 prove a probabilistic guarantee that the resulting conformal interval around f contains
-a function approximately satisfying P. Moreover, given the remarkable capabilities of modern AI models with large parameters and extensive training data, one might argue that alignment problems will naturally resolve, making alignment techniques unnecessary. However, we show that increasing the size of the training data or the number of parameters in a random feature model does
-not eliminate the need for alignment techniques when the pre-training data contains
-biased labels. We exhibit applications of our alignment methodology on a collection of
-supervised learning datasets for (shape-constrained) properties such as monotonicity
-and concavity. The general procedure is flexible and can be applied to a wide range of
-desired properties.
+a function approximately satisfying P.
 
 featured: true
 

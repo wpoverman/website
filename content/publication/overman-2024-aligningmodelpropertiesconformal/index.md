@@ -22,13 +22,10 @@ we develop a general procedure for converting queries for a given property P to 
 collection of loss functions suitable for use in a conformal risk control algorithm. We
 prove a probabilistic guarantee that the resulting conformal interval around f contains
 a function approximately satisfying P.
-
 featured: true
-
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2406.18777
-
 image:
 caption: 'Univariate Partial Dependence plot hoghlighting the main theorem, which shows that we can find a function satisfying the desired property of monotonicity within the conformal band.'
 focal_point: ''

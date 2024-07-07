@@ -32,6 +32,9 @@ biased labels. We exhibit applications of our alignment methodology on a collect
 supervised learning datasets for (shape-constrained) properties such as monotonicity
 and concavity. The general procedure is flexible and can be applied to a wide range of
 desired properties.
+
+featured: true
+
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2406.18777

@@ -44,7 +44,7 @@ profiles:
     url: https://www.linkedin.com/in/williamoverman/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en
-  - icon: school
+  - icon: solid/house-laptop
     url: https://www.skool.com/@will-overman-5843
 
 

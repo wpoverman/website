@@ -42,8 +42,8 @@ profiles:
     url: https://github.com/wpoverman
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/williamoverman/
-  - icon: rocket-launch
-    url: https://www.skool.com/@will-overman-5843
+  # - icon: rocket-launch
+  #   url: https://www.skool.com/@will-overman-5843
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=B2XPxEkAAAAJ&hl=en
 

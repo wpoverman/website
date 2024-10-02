@@ -37,7 +37,7 @@ profiles:
     url: 'mailto:wpo@stanford.edu'
     label: E-mail Me
   - icon: brands/instagram
-    url: https://www.instagram.com/william.over.man
+    url: https://www.instagram.com/clothes.nerd
   - icon: brands/github
     url: https://github.com/wpoverman
   - icon: brands/linkedin

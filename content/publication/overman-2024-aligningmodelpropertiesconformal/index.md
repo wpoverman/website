@@ -4,8 +4,8 @@ authors:
   - William Overman
   - Jacqueline Jil Vallon
   - Mohsen Bayati
-date: '2024-12-10'
-publishDate: '2024-12-10'
+date: '2024-06-01'
+publishDate: '2024-06-01'
 abstract: >
   AI model alignment is crucial due to inadvertent biases in training data and the
   underspecified pipeline in modern machine learning, where numerous models with
@@ -23,37 +23,12 @@ abstract: >
   collection of loss functions suitable for use in a conformal risk control algorithm. We
   prove a probabilistic guarantee that the resulting conformal interval around f contains
   a function approximately satisfying P.
-publication_types:
-- paper-conference
-publication: '*Advances in neural information processing systems 37 (NeurIPS 2024)*'
 featured: true
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2406.18777
 image:
   caption: 'Univariate Partial Dependence plot highlighting the main theorem, which shows that we can find a function satisfying the desired property of monotonicity within the conformal band.'
-focal_point: ''
-preview_only: false
----
-
----
-title: Global Convergence of Multi-Agent Policy Gradient in Markov Potential Games
-authors:
-- Stefanos Leonardos
-- Will Overman
-- Ioannis Panageas
-- Georgios Piliouras
-date: '2022-04-25'
-publishDate: '2022-04-25'
-publication_types:
-- paper-conference
-publication: '*International Conference on Learning Representations*'
-featured: true
-links:
-- name: URL
-  url: https://openreview.net/forum?id=gfwON7rAm4
-image:
-  caption: '2-state MDP congestion game considered in the experiments section'
 focal_point: ''
 preview_only: false
 ---

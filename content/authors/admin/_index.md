@@ -79,10 +79,9 @@ education:
       GPA: 4.1/4.3
 
 interests:
-  - Reinforcement Learning 
   - Alignment
   - Experimentation
-  - Uncertainty Quantification
+  - Reinforcement Learning 
   - Healthcare
 
 work:

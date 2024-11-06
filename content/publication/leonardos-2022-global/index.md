@@ -10,7 +10,7 @@ publishDate: '2022-04-25'
 publication_types:
 - paper-conference
 publication: '*International Conference on Learning Representations*'
-featured: true
+featured: false
 links:
 - name: URL
   url: https://openreview.net/forum?id=gfwON7rAm4

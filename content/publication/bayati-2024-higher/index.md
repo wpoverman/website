@@ -6,8 +6,8 @@ authors:
 - William Overman
 - Sadegh Shirani
 - Ruoxuan Xiong
-date: '2024-12-10'
-publishDate: '2024-12-10'
+date: '2024-11-01'
+publishDate: '2024-11-01'
 publication_types:
 - paper-conference
 publication: '*NeurIPS 2024*'

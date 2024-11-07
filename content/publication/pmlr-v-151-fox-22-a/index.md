@@ -10,8 +10,7 @@ date: '2022-03-01'
 publishDate: '2022-03-01'
 publication_types:
 - paper-conference
-publication: '*Proceedings of The 25th International Conference on Artificial Intelligence
-  and Statistics*'
+publication: '**AISTATS 2022**'
 links:
 - name: URL
   url: https://proceedings.mlr.press/v151/fox22a.html

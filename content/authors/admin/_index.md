@@ -79,7 +79,7 @@ education:
       GPA: 4.1/4.3
 
 interests:
-  - Alignment
+  - AI Alignment
   - Experimentation
   - Reinforcement Learning 
   - Healthcare

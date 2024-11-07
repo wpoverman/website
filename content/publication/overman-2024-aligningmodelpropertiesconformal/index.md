@@ -4,8 +4,8 @@ authors:
   - William Overman
   - Jacqueline Jil Vallon
   - Mohsen Bayati
-date: '2024-06-01'
-publishDate: '2024-06-01'
+date: '2024-12-10'
+publishDate: '2024-12-10'
 publication_types:
 - paper-conference
 publication: '*NeurIPS 2024*'

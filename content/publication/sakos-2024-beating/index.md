@@ -11,7 +11,7 @@ date: '2024-01-01'
 publishDate: '2024-01-01'
 publication_types:
 - paper-conference
-publication: '**ICLR 2024**'
+publication: '*The Twelfth International Conference on Learning Representations*'
 links:
 - name: URL
   url: https://openreview.net/forum?id=36L7W3ri4U

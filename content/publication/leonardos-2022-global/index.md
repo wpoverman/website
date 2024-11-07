@@ -9,7 +9,7 @@ date: '2022-04-25'
 publishDate: '2022-04-25'
 publication_types:
 - paper-conference
-publication: '**ICLR 2022**'
+publication: '*International Conference on Learning Representations*'
 featured: false
 links:
 - name: URL

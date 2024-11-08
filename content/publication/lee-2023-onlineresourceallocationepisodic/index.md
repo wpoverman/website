@@ -1,5 +1,5 @@
 ---
-title: Online Resource Allocation in Episodic Markov Decision Processes
+title: Improved Regret Bound for Safe Reinforcement Learning via Tighter Cost Pessimism and Reward Optimism
 authors:
 - Kihyun Yu
 - Duksang Lee

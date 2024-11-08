@@ -36,8 +36,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:wpo@stanford.edu'
     label: E-mail Me
-  - icon: brands/instagram
-    url: https://www.instagram.com/clothes.nerd
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/clothes.nerd
   - icon: brands/github
     url: https://github.com/wpoverman
   - icon: brands/linkedin

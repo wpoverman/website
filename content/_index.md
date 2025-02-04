@@ -33,7 +33,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Papers
+      title: Featured Publications
       filters:
         folders:
           - publication
@@ -43,7 +43,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Papers
+      title: Recent Publications
       text: ""
       filters:
         folders:
